@@ -1,5 +1,8 @@
 _repo: The-basic-facts-of-economics-b-A-common-sense-primer-for-advanced-students_73475
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73475-h/images/cover.jpg
 creator:
   author:
     agent_name: Post, Louis F. (Louis Freeland)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57089
     wikipedia: https://en.wikipedia.org/wiki/Louis_F._Post
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73475#The-basic-facts-of-economics-b-A-common-sense-primer-for-advanced-students
 gutenberg_issued: '2024-04-27'
 gutenberg_type: Text
 identifiers:
